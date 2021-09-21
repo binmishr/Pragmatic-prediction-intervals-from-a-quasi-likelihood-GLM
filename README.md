@@ -17,6 +17,12 @@ So never under-estimate the power of rubber duck debugging. That is, the trouble
 
 I actually own four rubber ducks expressly for the purpose of helping me solve stubborn problems that should “surely” be in my own resources to solve – one for each of my work stations at home, one for work (now sitting as a spare at home), and a fourth just for travel. But I hadn’t followed my own advice of explaining the problem to one of the ducks. So, lesson learned.
 
+Documentation: https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+Cross Validated : https://stats.stackexchange.com/
+
+Multiple Imputation with Chain Equation : https://stats.stackexchange.com/
+
 Prediction intervals for variables with exponential relationships and increasing variance
 ===========================================================================================
 
